@@ -1,8 +1,8 @@
-baseURL = "/"
+baseURL = "https://trickskiller.github.io/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Hugo Winston Theme"
+title = "Digital Storytelling"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -60,7 +60,7 @@ pygmentsUseClasses = true
     name = "About"
     identifier = "about"
     weight = 3
-    url = "/About/"
+    url = "/pages/About/"
   [[menu.main]]
     name = "Tags"
     identifier = "tags"
