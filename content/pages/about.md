@@ -1,46 +1,35 @@
 ---
-title: 'About'
-image: images/writer.jpeg
+title: "À propos"
+image: https://elearningindustry.com/wp-content/uploads/2022/06/shutterstock_2081153782.jpg
 ---
 
-## Contra vagos
+## Domaine : Digital storytelling
 
-Lorem _markdownum notam si_ lintea meque certa [en meumque
-illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
-[Paviunt castris](#nemorisque-urimur-violentus) cur errat ventis causa! Silvas
-sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum
-utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
+Avec l’apparition d’internet, le marketing a évolué et beaucoup d’entreprises utilisent plusieurs canaux différents afin d’atteindre les audiences :
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+- L’email
+- Les sites internet
+- Les réseaux sociaux
+- Et bien d’autres moyens
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Malgré l’efficacité de ces méthodes, comment faire pour se démarquer dans cet océan d’informations permanent ?
+Tout simplement, en pratiquant une technique ancestrale qui nous est familière depuis notre tendre enfance : le storytelling.
+Raconter une histoire demeure le meilleur moyen de captiver l’attention et d’impliquer les gens sur le plan émotionnel. En utilisant des techniques de narration dans la stratégie de communication d’une entreprise, nous pouvons mêler l’émotion à l’information et rendre un message plus impactant.
+Le digital storytelling pousse encore plus loin le concept du storytelling en intégrant des outils numériques dans sa narration. Généralement, Il peut s’agir de podcasts, vidéos, des publications sur les réseaux sociaux ou d’autres supports digitaux. En employant cette méthode, il est possible de créer des histoires plus mémorables et engageantes.
 
-## Ducem oculos pallor tale quoque
+## Lien avec mon ikigai
 
-Pectora de Hebe veste mansit nemorisque oppugnare deos, interea eo calescit
-**invita insidiae** Amymonen, semper respiciens vocato, illis! Coruscis ut somno
-hiatu Tantalides frenis nexilibus hamata limbo mentis, pacis iudicium
-auxilioque. Genus dolori, me ira hae inpediunt tellus, nascendi Boreas!
-Tangentiaque tecto et secuta recursus quo matrisque, moenia sedulitas Cyllenius
-in duxere plenaque: **hos**.
+- Ce que j’aime : Depuis ma jeunesse, j’ai toujours été captivé par les histoires à travers différents médias comme les jeux vidéo, les livres et les films. J’adore regarder l’évolution des personnages et comprendre le message que veulent transmettre les créateurs.
+- Ce pour quoi je suis bon : J’amène toujours une atmosphère positive auprès de mon entourage et je fais preuve de créativité dans la résolution des problèmes. Je raconte toujours des récits de ma vie qui surprennent les gens par leur caractère insolite et mon sens de la narration.
+- Ce pour quoi le monde a besoin : Je suis persuadé que le monde a besoin de plus de bienveillance, de créativité et d’humour. Dans le but de transmettre ces valeurs, je pense que le meilleur moyen d’y parvenir est d’employer les nouvelles technologies.
+- Ce pour quoi je suis payé : Dans mon stage en marketing, je crée du contenu pour la communauté de la RTS, j’envoie des newsletters et je rédige des articles qui sont centrés sur les activités de l’entreprise.
+  Le digital storytelling correspond bien à mon ikigai, en alliant ma passion pour les récits et mon intérêt pour les nouvelles technologies
 
-1. Olim pulvere
-2. Verus ego ovantem mihi
-3. Tenuit erat semina superari
-4. Dabis natis hoc genu in quidem dumque
+## Taxonomie
 
-Per tenuata [potiora](#inmeritae-discordemque-iterum) dedit caelo admota
-iniustus decipere do loca multa non parat. Ingratos his ut inde credite sensit
-sorte. Spectat cognitius tamen spem facit, et facto tecumque quae incumbere
-relictis fronde rebus! Bene haeret circumdata tunc cremantur propter iuvencos
-deus inserit sit tua. Pompa non precor procumbit inania lacrimas sacra credetis:
-Oceano, femina?
+Sous-domaine : marketing, rédaction, narration, psychologie, gamification, récit, storytelling, scénarisation, analyse, réalité virtuelle,
+Mots-clés : marketing, storytelling, émotions, humour, audience, communication, visuel, numérique, audiovisuel, branding, contenu, psychologie, immersion, technologie, publicité, interactivité
 
-Bacchantum neque. Humum ut violasse quam inmotos! Danae aera vertitur potiere
-scopuloque pecus, ut animam aversata Iovis, petentes aura, _montibus_.
+## Choix du SSG : Hugo
+
+Pour ce site, j'ai choisi Hugo, un logiciel libre qui permet de générer des sites statiques. Il a été recommandé dans le cadre du cours de Laboratoire de Veille Technologique (LabVeilTech) à la HEIG-VD, filière Ingénierie des Médias. Sa simplicité d'utilisation et son usage intuitif le rendent accessible même pour ceux qui n'ont pas de grandes connaissances en programmation.
