@@ -2,8 +2,8 @@
 title: Article 0 - Mes systèmes de veille
 date: 2024-01-27
 description: "Le domaine du digital est un domaine très vaste en plein essor qui est incorporé dans plusieurs autres domaines de manière plus implicite tels que le marketing digital. De ce fait, je me suis dit que l’un des meilleurs moyens consistait à suivre des experts du domaine sur les réseaux sociaux"
-image: images/cctv2.jpeg
-imageAltAttribute: CCTV Camera
+image: https://www.centre-affaires-lyon-monts-d-or.fr/donnees/fiches/actualites/images/champ___3/Veille-centre-affaires.jpg
+imageAltAttribute: Image veille
 tags:
   - blog
   - veille technologique
